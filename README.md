@@ -1,2 +1,2 @@
 # Qualification
-IT
+It
