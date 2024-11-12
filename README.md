@@ -1,2 +1,2 @@
 # Qualification
-Student
+IT
